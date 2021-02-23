@@ -62,3 +62,10 @@ padding-bottom: 20px;
 padding-right: 20px;
 padding-left: 20px;
 }
+
+.section-heading {
+  font-family: 'Bubbler One';
+  font-size: 4.5rem;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
