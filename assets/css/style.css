@@ -1,6 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+}
+
 nav {
 
-  height: 200px;
+  height: 180px;
+  width: 100%;
   background: linear-gradient(66deg, rgb(251,247,245), rgb(238, 189, 180));
   border: solid rgb(0, 0, 0) 5px;
   }
@@ -9,7 +16,7 @@ nav {
 .navbar-brand {
   color: rgb(0, 0, 0);
   font-family: 'Marcellus SC';
-  font-size: 5em;
+  font-size: 4em;
   margin-right: 20px;
 }
 
@@ -38,6 +45,7 @@ nav {
   background-repeat: no-repeat;
   background-position: 100%;
   height: 70vh;
+  width: 100vw;
   padding-top: 20vh;
   border: rgb(0, 0, 0) solid 5px;
 }
@@ -58,14 +66,28 @@ nav {
   font-family: 'Bellefair';
   font-size: 2rem;
   background: rgb(221, 190, 169, 0.5);
-padding-bottom: 20px;
-padding-right: 20px;
-padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 .section-heading {
   font-family: 'Bubbler One';
   font-size: 4.5rem;
   margin-top: 75px;
-  margin-bottom: 75px;
+}
+
+.info-card {
+margin: 60px;
+font-family: 'Bellefair';
+font-size: 1.5rem;
+}
+
+.info-card h3 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.info-card a {
+  color: rgb(0, 0, 0);
 }
