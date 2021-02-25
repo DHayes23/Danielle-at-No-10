@@ -107,11 +107,12 @@ background-repeat: no-repeat;
 text-align:center;
 padding:0;
 object-fit: fill;
+margin-bottom: 100px;
 }
 
 .blog-heading {
-  margin-top: 25px;
-  margin-bottom: 25px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .blog-link-container {
@@ -161,4 +162,3 @@ object-fit: fill;
 }
 
 /* Here marks the end of the snippet from https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel. */
-
