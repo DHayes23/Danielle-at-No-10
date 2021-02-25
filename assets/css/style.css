@@ -61,6 +61,8 @@ nav {
   padding-bottom: 10px;
   padding-right: 20px;
   padding-left: 20px;
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
 }
 .hero-image p {
   width: 30vh;
@@ -70,6 +72,8 @@ nav {
   padding-bottom: 20px;
   padding-right: 20px;
   padding-left: 20px;
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
 }
 
 .section-heading {
@@ -91,3 +95,70 @@ font-size: 1.5rem;
 .info-card a {
   color: rgb(0, 0, 0);
 }
+
+.carousel-caption {
+  color: rgb(0, 0, 0);
+}
+
+.blog-container {
+background-image: url(/assets/images/blog-post-background.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+text-align:center;
+padding:0;
+object-fit: fill;
+}
+
+.blog-heading {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.blog-link-container {
+  background-color: rgba(162, 210, 255, 0.5);
+}
+
+.blog-link-container a {
+  font-family: 'Bellefair';
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px rgb(255, 255, 255), 1px -1px rgb(255, 255, 255), -1px 1px rgb(255, 255, 255), 1px 1px   rgb(255, 255, 255);
+}
+
+.blog-link-container h4 {
+  font-size: 2rem;
+}
+
+.blog-link-container p {
+  font-size: 1.5rem;
+}
+
+ /* The following code snippet for styling the Blog section's carousel controls was found at 'https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel' and has been altered for my use */
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px; 
+  outline: rgb(0, 0, 0);
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px rgb(255, 255, 255), 1px -1px rgb(255, 255, 255), -1px 1px rgb(255, 255, 255), 1px 1px   rgb(255, 255, 255);
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: rgb(0, 0, 0);
+  text-shadow: -1px -1px rgb(255, 255, 255), 1px -1px rgb(255, 255, 255), -1px 1px rgb(255, 255, 255), 1px 1px   rgb(255, 255, 255);
+
+}
+
+/* Here marks the end of the snippet from https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel. */
+
