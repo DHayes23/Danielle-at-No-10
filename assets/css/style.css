@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  max-width: 100%;
 }
 
 nav {
@@ -125,7 +124,7 @@ font-size: 1.5rem;
   color: rgb(0, 0, 0);
 }
 
-.blog-container {
+.blog-carousel-container {
 background-image: url(/assets/images/blog-post-background.jpg);
 background-size: cover;
 background-repeat: no-repeat;
@@ -156,6 +155,45 @@ margin-bottom: 100px;
 
 .blog-link-container p {
   font-size: 1.5rem;
+}
+
+.blog-container {
+background: url(/assets/images/blog-post-background.jpg);}
+
+.blog-content{
+font-family: 'Bellefair';
+font-size: 1.5rem;
+line-height: 2.5rem;
+border: solid black 6px;
+background-color: rgb(255, 255, 255);
+margin: auto;
+padding: auto;
+box-sizing: border-box;
+}
+
+#blog-image-01 {
+  height: 600px;
+  width: 1300px;
+  background-image: url(/assets/images/blog-post-01-hands.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 0;
+}
+#blog-image-02 {
+  height: 600px;
+  width: 1300px;
+  background-image: url(/assets/images/blog-post-02-lashes.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
+}
+#blog-image-03 {
+  height: 600px;
+  width: 1300px;
+  background-image: url(/assets/images/blog-post-03-cotton.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: auto;
 }
 
  /* The following code snippet for styling the Blog section's carousel controls was found at 'https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel' and has been altered for my use */
