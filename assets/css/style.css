@@ -48,7 +48,6 @@ nav {
   width: 100vw;
   padding-top: 20vh;
   border: rgb(0, 0, 0) solid 5px;
-  margin-bottom: 50px;
 }
 
 .hero-image h2 {
@@ -74,6 +73,32 @@ nav {
   padding-left: 20px;
   color: rgb(0, 0, 0);
   text-shadow: -1px -1px 0 rgb(255, 255, 255), 1px -1px 0 rgb(255, 255, 255), -1px 1px 0 rgb(255, 255, 255), 1px 1px 0 rgb(255, 255, 255);
+}
+
+.covid-modal-btn {
+  font-family: 'Bellefair';
+  font-size:1.6rem;
+  color: rgb(0, 0, 0);
+  background-color:rgb(238, 189, 180);
+  margin-bottom: 30px;
+  border: none;
+}
+.covid-modal-btn:hover {
+  color: rgb(67, 119, 175);
+  background-color:rgb(238, 189, 180);
+  margin-bottom: 30px;
+  border: none;
+
+}
+
+.modal-content {
+  font-family: 'Bellefair';
+  font-size: 1.5rem;
+  background-color: rgb(106, 163, 224);
+}
+
+.covid-modal-header h3 {
+  font-size: 3rem;
 }
 
 .section-heading {
