@@ -158,7 +158,10 @@ margin-bottom: 100px;
 }
 
 .blog-container {
-background: url(/assets/images/blog-post-background.jpg);}
+background: url(/assets/images/blog-post-background.jpg);
+margin-top: 75px;
+margin-bottom: 75px;
+}
 
 .blog-content{
 font-family: 'Bellefair';
