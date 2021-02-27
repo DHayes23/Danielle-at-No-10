@@ -3,6 +3,12 @@
   padding: 0;
 }
 
+body {
+  max-width: 2400px ;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 nav {
 
   height: 180px;
@@ -10,6 +16,7 @@ nav {
   background: linear-gradient(66deg, rgb(251,247,245), rgb(238, 189, 180));
   border: solid rgb(0, 0, 0) 5px;
   }
+
 
 
 .navbar-brand {
@@ -108,7 +115,7 @@ nav {
 .info-card {
 margin: 60px;
 font-family: 'Bellefair';
-font-size: 1.5rem;
+font-size: 2rem;
 }
 
 .info-card h3 {
@@ -140,21 +147,20 @@ margin-bottom: 100px;
 }
 
 .blog-link-container {
-  background-color: rgba(162, 210, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .blog-link-container a {
   font-family: 'Bellefair';
   color: rgb(0, 0, 0);
-  text-shadow: -1px -1px rgb(255, 255, 255), 1px -1px rgb(255, 255, 255), -1px 1px rgb(255, 255, 255), 1px 1px   rgb(255, 255, 255);
 }
 
 .blog-link-container h4 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .blog-link-container p {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 .blog-container {
@@ -165,13 +171,17 @@ margin-bottom: 75px;
 
 .blog-content{
 font-family: 'Bellefair';
-font-size: 1.5rem;
+font-size: 2rem;
 line-height: 2.5rem;
 border: solid black 6px;
 background-color: rgb(255, 255, 255);
 margin: auto;
 padding: auto;
 box-sizing: border-box;
+}
+
+.blog-content p {
+  margin-top: 50px;
 }
 
 #blog-image-01 {
@@ -333,15 +343,9 @@ margin-bottom: 50px;
   font-size: 1.5rem;
 }
 
-.treatment-table-background td:nth-child(odd) {
-  background-color: aquamarine;
-}
-.treatment-table-background td:nth-child(even) {
-  background-color: blue;
-}
 
 .treatment-table tr:nth-child(even) {
-  background-color: rgb(211, 211, 211);
+  background-color: rgb(106, 163, 224);
 }
 
 .treatment-table-last {
