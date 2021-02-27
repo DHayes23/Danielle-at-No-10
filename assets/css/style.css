@@ -366,6 +366,9 @@ margin-bottom: 75px;
   background-color: rgba(243, 214, 209, 0.7);
 }
 
+.client-message-placeholder {
+  font-size: 1.3rem;
+}
 
 #client-message {
  width: 100%;
