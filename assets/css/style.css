@@ -373,3 +373,7 @@ margin-bottom: 75px;
 #client-message {
  width: 100%;
 }
+
+.main-submit-button {
+  background-color: rgba(106, 163, 224, 0.8);
+}
