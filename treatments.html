@@ -19,30 +19,287 @@
 </head>
 
 <body>
-  <header>
-    <nav class="navbar navbar-expand-md sticky-top">
+  <div class="container-fluid">
+    <header>
+      <nav class="navbar navbar-expand-md sticky-top">
+        <div class="container-fluid">
+          <a href="/index.html" class="navbar-brand">Danielle's at No. 10</a>
+          <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar">
+            <span class="navbar-toggler-icon"><i class="fa fa-bars fa-2x" aria-hidden="true"></i>
+            </span>
+          </button>
+          <div id="main-navbar" class="collapse navbar-collapse">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a href="/index.html">Home</a>
+              </li>
+              <li class="nav-item active">
+                <a href="#">Treatments</a>
+              </li>
+              <li class="nav-item">
+                <a href="/make-a-booking.html">Make a Booking</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <section>
       <div class="container-fluid">
-        <a href="/index.html" class="navbar-brand">Danielle's at No. 10</a>
-        <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar">
-          <span class="navbar-toggler-icon"><i class="fa fa-bars fa-2x" aria-hidden="true"></i>
-          </span>
-        </button>
-        <div id="main-navbar" class="collapse navbar-collapse">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a href="/index.html">Home</a>
-            </li>
-            <li class="nav-item active">
-              <a href="#">Treatments</a>
-            </li>
-            <li class="nav-item">
-              <a href="/make-a-booking.html">Make a Booking</a>
-            </li>
-          </ul>
+        <div class="row text-center">
+          <div class="col-12">
+            <h2 class="section-heading" id="treatment-main-heading">Our Treatments</h2>
+            <h3 class="treatment-heading">Waxing</h3>
+          </div>
         </div>
       </div>
-    </nav>
-  </header>
+      <div class="container">
+        <table class="table text-center treatment-table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Treatment Name</th>
+              <th scope="col">Price</th>
+              <th scope="col">Average Duration</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Half Leg</td>
+              <td>€19.00</td>
+              <td>20 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Full Leg</td>
+              <td>€30.00</td>
+              <td>35 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td>Eyebrow</td>
+              <td>€10.00</td>
+              <td>15 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">4</th>
+              <td>Lip and Chin</td>
+              <td>€15.00</td>
+              <td>20 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">5</th>
+              <td>Face</td>
+              <td>€20.00</td>
+              <td>25 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">6</th>
+              <td>Bikini</td>
+              <td>€15.00</td>
+              <td>10 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">7</th>
+              <td>Under Arm</td>
+              <td>€10.00</td>
+              <td>10 Mins</td>
+            </tr>
+            <tr>
+              <th scope="row">8</th>
+              <td>Full Arm</td>
+              <td>€20.00</td>
+              <td>20 Mins</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="row text-center">
+        <div class="col-12">
+          <h3 class="treatment-heading">Facial</h3>
+        </div>
+      </div>
+  </div>
+  <div class="container">
+    <table class="table text-center treatment-table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Treatment Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Average Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>Hydradermie Lift</td>
+          <td>€70.00</td>
+          <td>60 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Hydradermie Lift Deluxe</td>
+          <td>€120.00</td>
+          <td>120 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Pro Skin Express</td>
+          <td>€30.00</td>
+          <td>30 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td>Pro Skin Deluxe</td>
+          <td>€60.00</td>
+          <td>60 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td>Collagen Power</td>
+          <td>€80.00</td>
+          <td>25 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">6</th>
+          <td>Advanced Active Vitamin</td>
+          <td>€100</td>
+          <td>60 Mins</td>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+  <div class="row text-center">
+    <div class="col-12">
+      <h3 class="treatment-heading">Nails</h3>
+    </div>
+  </div>
+  <div class="container">
+    <table class="table text-center treatment-table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Treatment Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Average Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>File and Polish</td>
+          <td>€15.00</td>
+          <td>20 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Shellac Manicure with Cuticle Work</td>
+          <td>€50.00</td>
+          <td>45 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Manicure</td>
+          <td>€30.00</td>
+          <td>30 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td>Full Pedicure</td>
+          <td>€60.00</td>
+          <td>60 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">5</th>
+          <td>Press-On Temporary Nails</td>
+          <td>€25.00</td>
+          <td>20 Mins</td>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+  <div class="row text-center">
+    <div class="col-12">
+      <h3 class="treatment-heading">Tanning</h3>
+    </div>
+  </div>
+  <div class="container">
+    <table class="table text-center treatment-table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Treatment Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Average Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>Full Body Spray</td>
+          <td>€35.00</td>
+          <td>20 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Half Body</td>
+          <td>€25.00</td>
+          <td>10 Mins</td>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+  <div class="row text-center">
+    <div class="col-12">
+      <h3 class="treatment-heading">Massage</h3>
+    </div>
+  </div>
+  <div class="container">
+    <table class="table text-center treatment-table treatment-table-last">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Treatment Name</th>
+          <th scope="col">Price</th>
+          <th scope="col">Average Duration</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>Full Body</td>
+          <td>€60.00</td>
+          <td>60 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Back</td>
+          <td>€35.00</td>
+          <td>30 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Neck</td>
+          <td>€30.00</td>
+          <td>30 Mins</td>
+        </tr>
+        <tr>
+          <th scope="row">4</th>
+          <td>Tension</td>
+          <td>€40.00</td>
+          <td>45 Mins</td>
+        </tr>
+      </tbody>
+
+    </table>
+  </div>
+  </section>
 
   <footer class="footer-container">
     <div class="container-fluid">
@@ -84,6 +341,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"
     integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF"
     crossorigin="anonymous"></script>
+  </div>
 </body>
 
 </html>

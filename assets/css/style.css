@@ -318,3 +318,33 @@ margin-bottom: 50px;
   min-height: 200px;
   padding: 30px;
 }
+
+.treatment-heading {
+  font-family: 'Bubbler One';
+  font-size: 3rem;
+  margin-top: 75px;
+}
+
+.treatment-table {
+  font-family: 'Bubbler One';
+  font-size: 1.5rem;
+}
+
+.treatment-table-background td:nth-child(odd) {
+  background-color: aquamarine;
+}
+.treatment-table-background td:nth-child(even) {
+  background-color: blue;
+}
+
+.treatment-table tr:nth-child(even) {
+  background-color: rgb(211, 211, 211);
+}
+
+.treatment-table-last {
+margin-bottom: 75px;
+}
+
+#treatment-main-heading {
+  margin-top: 75px;
+}
