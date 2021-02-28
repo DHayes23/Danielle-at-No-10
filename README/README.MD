@@ -76,7 +76,8 @@ Over the course of several phone interviews, the business owner and I discussed 
 ## Wireframes
 --- 
 
-Images of the developed Wireframes for the entire site will be displayed here. 
+### **The Initial Draft of Wireframes**
+![Wireframe image of index.html](Milestone-Project-1/README/assets/home-page-wireframe-draft-01.png)
 
 ---
 ## Features
