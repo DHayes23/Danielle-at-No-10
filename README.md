@@ -47,7 +47,11 @@ Access the live website **here**.
 ## Screenshots
 ---
 Screenshots contained in README/assets/screenshots
-
+![](README/assets/screenshots/screenshot-01.jpg)
+![](README/assets/screenshots/screenshot-02.jpg)
+![](README/assets/screenshots/screenshot-03.jpg)
+![](README/assets/screenshots/screenshot-04.jpg)
+![](README/assets/screenshots/screenshot-05.jpg)
 ---
 ## Website Requirements
 ---
