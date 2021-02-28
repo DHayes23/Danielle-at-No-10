@@ -209,7 +209,7 @@ box-sizing: border-box;
   margin: auto;
 }
 
- /* The following code snippet for styling the Blog section's carousel controls was found at 'https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel' and has been altered for my use */
+ /* The following CSS snippet for styling the Blog section's carousel controls was found at 'https://stackoverflow.com/questions/46249541/change-arrow-colors-in-bootstraps-carousel' and has been altered for my use */
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
