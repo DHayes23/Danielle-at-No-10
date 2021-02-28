@@ -13,7 +13,7 @@ nav {
 
   height: 180px;
   width: 100%;
-  background: linear-gradient(66deg, rgb(251,247,245), rgb(238, 189, 180));
+  background-color: rgb(231, 212, 204);
   border: solid rgb(0, 0, 0) 5px;
   }
 
@@ -44,6 +44,14 @@ nav {
 .active {
   text-decoration: underline;
 }
+
+#main-navbar {
+  background-color: rgb(231, 212, 204);
+  margin-left:auto ;
+  margin-right:auto ;
+}
+
+
 
 .hero-image {
   background-image: url(/assets/images/main-header.jpg);
@@ -377,3 +385,51 @@ margin-bottom: 75px;
 .main-submit-button {
   background-color: rgba(106, 163, 224, 0.8);
 }
+
+
+
+@media (max-width: 1700px) {
+  .card-text {
+    font-size: 1rem;
+  }
+ }
+ 
+@media (max-width: 1200px) {
+  .nav-item {
+    font-size: 0.6rem;
+  }
+ }
+ 
+ @media (max-width: 768px) {
+ 
+ #main-navbar {
+   margin-top: 20px;
+   border: rgb(0, 0, 0) solid 1px;
+   background-color: rgb(185, 216, 248);
+   width: 100%;
+ }
+ }
+ 
+ 
+ @media (max-width: 620px) {
+ 
+ .navbar-brand {
+  font-size: 2rem;
+ }
+ }
+
+ @media (max-width: 500px) {
+ 
+ .blog-link-container h4 {
+  font-size: 1.5rem;
+  margin: 0;
+ }
+ .blog-link-container p {
+  font-size: 1rem;
+  margin: 0;
+ }
+ }
+ 
+
+
+ 
