@@ -47,7 +47,7 @@ Access the live website **here**.
 ---
 ## Screenshots
 ---
-Images of the completed site will go here using the website 'Am I Responsive' to provide an overview of the 3 main pages of the site. 
+Screenshots contained in README/assets/screenshots
 
 ---
 ## Website Requirements
@@ -162,6 +162,7 @@ Feature's that repeat on separate pages of the website are described only once.
 ---
 ## Testing
 ---
+
 ---
 ## Code Snippets
 ---
