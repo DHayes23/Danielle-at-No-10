@@ -140,7 +140,7 @@ font-size: 2rem;
 }
 
 .blog-carousel-container {
-background-image: url(/assets/images/blog-post-background.jpg);
+background-image: url(../assets/images/blog-post-background.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 text-align:center;
@@ -172,7 +172,7 @@ margin-bottom: 100px;
 }
 
 .blog-container {
-background: url(/assets/images/blog-post-background.jpg);
+background: url(../assets/images/blog-post-background.jpg);
 margin-top: 300px;
 margin-bottom: 75px;
 }
@@ -194,7 +194,7 @@ box-sizing: border-box;
 #blog-image-01 {
   height: 600px;
   width: 1300px;
-  background-image: url(/assets/images/blog-post-01-hands.jpg);
+  background-image: url(../assets/images/blog-post-01-hands.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   margin: 0;
@@ -202,7 +202,7 @@ box-sizing: border-box;
 #blog-image-02 {
   height: 600px;
   width: 1300px;
-  background-image: url(/assets/images/blog-post-02-lashes.jpg);
+  background-image: url(../assets/images/blog-post-02-lashes.jpg);
   background-repeat: no-repeat;
   background-position: center;
   margin: auto;
@@ -210,7 +210,7 @@ box-sizing: border-box;
 #blog-image-03 {
   height: 600px;
   width: 1300px;
-  background-image: url(/assets/images/blog-post-03-cotton.jpg);
+  background-image: url(../assets/images/blog-post-03-cotton.jpg);
   background-repeat: no-repeat;
   background-position: center;
   margin: auto;
@@ -255,7 +255,7 @@ box-sizing: border-box;
   width: 300px;
   height: 300px;
   border: rgb(0, 0, 0) solid 5px;
-  background: url(/assets/images/client-image-01.jpg) no-repeat center center;
+  background: url(../assets/images/client-image-01.jpg) no-repeat center center;
   border-radius: 50%;
   margin:auto;
   margin-top: 75px;
@@ -264,7 +264,7 @@ box-sizing: border-box;
   width: 300px;
   height: 300px;
   border: rgb(0, 0, 0) solid 5px;
-  background: url(/assets/images/client-image-02.jpg) no-repeat center center;
+  background: url(../assets/images/client-image-02.jpg) no-repeat center center;
   border-radius: 50%;
   margin:auto;
   margin-top: 75px;
@@ -273,7 +273,7 @@ box-sizing: border-box;
   width: 300px;
   height: 300px;
   border: rgb(0, 0, 0) solid 5px;
-  background: url(/assets/images/client-image-03.jpg) no-repeat center center;
+  background: url(../assets/images/client-image-03.jpg) no-repeat center center;
   border-radius: 50%;
   margin:auto;
   margin-top: 75px;
