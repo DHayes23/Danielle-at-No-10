@@ -162,6 +162,46 @@ Feature's that repeat on separate pages of the website are described only once.
 ---
 ## Testing
 ---
+### **Functionality - index.html**
+
+* Tested Nav Bar links by clicking each of them. All Nav Bar links functional. 
+* Tested Nav Bar active attribute by observing nav-item text decoration on each page. All Nav Bar active attributes functional. 
+* Tested Nav Bar burger menu by clicking on it when the screen size was reduced. Nav Bar burger menu functional. 
+* Tested Covid-19 modal button. Modal displays correctly on button click. Modal and modal button functional.
+* Tested Blog Carousel controls and hyperlinks by clicking each button and link. All controls and links functional. 
+* Tested Social Icon links by clicking on each. Each icon links to external website and opens in a separate tab. All Social Icons functional. 
+* Tested mailto:email link by clicking on it. Link correctly opens mail service in separate tab. Link functional.
+* Tested telephone number link by clicking on it. Link correctly opens browser phone service. Link functional. 
+
+### **Functionality - make-a-booking.html**
+* Tested all form elements for validation by typing valid and invalid answers into each input. Inputs responded correctly. All inputs functional.
+* Tested placeholder text by typing in associated forms. Placeholder text disappears upon user input. Placeholder text functional. 
+
+### Browser **Compatibility**
+* Site tested on Chrome, Firefox and Safari. Site performed identically on each browser. Site is compatible with all tested browsers. 
+
+### **Responsiveness**
+* Website tested on varying screen sizes. Elements expand/contract as expected, as per defined @media queries and according to the defined Bootstrap Grid. 
+
+### **Tested User Stories - The Visitor**
+* The Visitor is able to navigate effectively using the simple navigation controls. 
+* The Visitor can quickly ascertain the nature of the business based on the imagery provided and the clearly defined 'All About Us' section. 
+* The Visitor may visit treatments.html for a complete list of available services. 
+* The Visitor can make direct contact with the business either using the contact links in the footer or by visiting make-a-booking.html and filling out the presented form. 
+* The Visitor can find the business' contact information in the footer. 
+* The Visitor is encouraged to make repeated visits to the website to read the weekly blog.
+* The Visitor is entreated to find the website aesthetically pleasing by the soothing colours and gentle, relaxing imagery used. 
+
+### **Tested User Stories - The Business Owner**
+* The Business Owner's brand is enhanced by the inclusion of positive imagery and detailed information about the business being presented in the 'All About Us' section.
+* The Business Owner can spend additional time providing services in her salon as the websites draw the Visitor to communicate electronically. 
+* The Business Owner's location is readily available in the 'Where We Do It' info card, and a comprehensive list of available services exists in treatments.html. 
+* The Business Owner has a means to engage with her clients through the use of the 'Danielle's Weekly Blog' section. This section also provides the Visitor with a reason to keep checking in with the website. 
+* The Business Owner's social media presences are available to the Visitor through the use of the Social Icons contained in the footer of each page within the website.
+* The Business Owner can reassure the Visitor that the business is adhering to best practices regarding Covid-19 through the Visitor's use of the Covid-19 modal. The modal is highly visible yet unobtrusive and delivers a reassuring message to the Visitor about the business' handling of the pandemic. 
+
+
+
 
 ---
 ## Code Snippets
