@@ -8,7 +8,6 @@
  * The business consists of a beauty salon which operates in the business owner's residence, offering a variety of cosmetic treatments.
  * This project consists of a six page website; 3 main pages and 3 sub-pages to contain blog posts.
  
-
 ---
 ## Live Website Access
 ---
@@ -71,7 +70,6 @@ Over the course of several phone interviews, the business owner and I discussed 
 * The Business Owner wants her website to allow users to easily access her upcoming social media presences. 
 * The Business Owner wants to provide the Visitor with reassurances that best practices are being adhered to regarding the ongoing Covid-19 pandemic.
 
-
 --- 
 ## Wireframes
 --- 
@@ -118,7 +116,6 @@ Feature's that repeat on separate pages of the website are described only once.
 * The Booking Form detects whether all required fields have been filled and does not allow the form to be submitted unless they have been. 
 * The Booking Form detects whether the email inputted by the user is in the valid format using the 'type=email' attribute. 
  * The Booking Form includes a checkbox, allowing the Visitor to sign up to a mailing list. 
-
 
  ---
  ## Upcoming Features
@@ -199,9 +196,6 @@ Feature's that repeat on separate pages of the website are described only once.
 * The Business Owner has a means to engage with her clients through the use of the 'Danielle's Weekly Blog' section. This section also provides the Visitor with a reason to keep checking in with the website. 
 * The Business Owner's social media presences are available to the Visitor through the use of the Social Icons contained in the footer of each page within the website.
 * The Business Owner can reassure the Visitor that the business is adhering to best practices regarding Covid-19 through the Visitor's use of the Covid-19 modal. The modal is highly visible yet unobtrusive and delivers a reassuring message to the Visitor about the business' handling of the pandemic. 
-
-
-
 
 ---
 ## Code Snippets
