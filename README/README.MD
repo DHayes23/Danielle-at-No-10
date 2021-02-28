@@ -211,6 +211,8 @@ Feature's that repeat on separate pages of the website are described only once.
 * ThisPersonDoesNotExist<.com> provided the randomly generated client images.
 ### **SimpleImageResizer<.com>**
 * SimpleImageResizer<.com> was used to resize some images that would otherwise have been too large to use. 
+### **Microsoft Paint**
+* Microsoft Paint was used to develop the initial wireframes of the website.
 ---
 ## Bibliography
 ---
