@@ -75,10 +75,7 @@ Over the course of several phone interviews, the business owner and I discussed 
 --- 
 ## Wireframes
 --- 
-
-![Wireframe image of index.html](README/assets/home-page-wireframe-draft-01.png)
-![Wireframe image of index.html](README/assets/treatments-page-wireframe-draft-01.png)
-![Wireframe image of index.html](README/assets/make-a-booking-page-wireframe-draft-01.png)
+Wireframes contained in README/assets/wireframes 
 
 ---
 ## Features
