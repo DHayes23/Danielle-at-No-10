@@ -241,11 +241,11 @@ Feature's that repeat on separate pages of the website are described only once.
 ## Deployment
 ---
 ### **The following steps were taken to deploy the website.**
-* 1. Github Login: Using an existing Github account, log into the website. 
-* 2. Navigate to Settings in Github: Click the 'Settings' button. 
-* 3. Change Repository Visibility(Necessary only if repository is private): Scroll to the end of the settings menu. At the bottom of the menu find the 'Danger Zone'. Click on the 'Change Repository Visibility' button. Select the 'Make Public' radio button. Type username and repository name into text box as prompted. Click 'I understand, change repository visibility' button. 
-* 4. Still in the settings menu, navigate to the Github Pages. Locate the 'Source' section. Use the dropdown menu to select 'Master Branch'.
-* 5. The website is now published. Again in the Github Pages section, find the url of the website.  
+ 1. Github Login: Using an existing Github account, log into the website. 
+ 2. Navigate to Settings in Github: Click the 'Settings' button. 
+ 3. Change Repository Visibility(Necessary only if repository is private): Scroll to the end of the settings menu. At the bottom of the menu find the 'Danger Zone'. Click on the 'Change Repository Visibility' button. Select the 'Make Public' radio button. Type username and repository name into text box as prompted. Click 'I understand, change repository visibility' button. 
+ 4. Still in the settings menu, navigate to the Github Pages. Locate the 'Source' section. Use the dropdown menu to select 'Master Branch'.
+ 5. The website is now published. Again in the Github Pages section, find the url of the website.  
 ---
 ## Technologies Used
 ---
