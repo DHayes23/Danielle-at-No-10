@@ -11,7 +11,7 @@
 ---
 ## Live Website Access
 ---
-Access the live website **here**.
+Access the live website at: https://dhayes23.github.io/Milestone-Project-1/
 
 ---
  ## Table of Contents
@@ -240,6 +240,12 @@ Feature's that repeat on separate pages of the website are described only once.
 ---
 ## Deployment
 ---
+### **The following steps were taken to deploy the website.**
+* 1. Github Login: Using an existing Github account, log into the website. 
+* 2. Navigate to Settings in Github: Click the 'Settings' button. 
+* 3. Change Repository Visibility(Necessary only if repository is private): Scroll to the end of the settings menu. At the bottom of the menu find the 'Danger Zone'. Click on the 'Change Repository Visibility' button. Select the 'Make Public' radio button. Type username and repository name into text box as prompted. Click 'I understand, change repository visibility' button. 
+* 4. Still in the settings menu, navigate to the Github Pages. Locate the 'Source' section. Use the dropdown menu to select 'Master Branch'.
+* 5. The website is now published. Again in the Github Pages section, find the url of the website.  
 ---
 ## Technologies Used
 ---
@@ -255,6 +261,8 @@ Feature's that repeat on separate pages of the website are described only once.
 * Cooolers<.co> was used to design a colour palette for the website. 
 ### **Microsoft Paint**
 * Microsoft Paint was used to develop the initial wireframes of the website.
+### **Github Pages**
+* Github Pages was used to deploy the website.
 ---
 ## Bibliography
 ---
