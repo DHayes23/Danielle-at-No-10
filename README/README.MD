@@ -226,3 +226,5 @@ Feature's that repeat on separate pages of the website are described only once.
 I would like to thank my mentor, Brian, for his invaluable advice and assistance with the realisation of this project. 
 ### **Alexander, Code Institute Student Care Team**
 I would like to thank Alexander and the rest of the Student Care Team for their work behind the scenes to ensure that students have the opportunity to work to the best of their abilities. 
+### **Aisling Molloy, Researcher**
+I would like to thank Aisling for her assistance with beauty treatment research. 
