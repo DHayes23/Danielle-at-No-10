@@ -77,8 +77,10 @@ Over the course of several phone interviews, the business owner and I discussed 
 --- 
 ## Wireframes
 --- 
-Wireframes contained in README/assets/wireframes 
-
+Wireframes contained in README/assets/wireframes
+![](README/assets/wireframes/home-page-wireframe-draft-01.png)
+![](README/assets/wireframes/treatments-page-wireframe-draft-01.png)
+![](README/assets/wireframes/make-a-booking-page-wireframe-draft-01.png)
 ---
 ## Features
 --- 
